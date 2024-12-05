@@ -1,6 +1,6 @@
 # Image Processing
 
-Our Image Processing Application can be explained in
+The Image Processing Application can be explained in
 three parts, the model, the view, and the controller.
 
 ## The Model
